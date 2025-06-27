@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hey there, I'm Grishma Basnet
 
-<!--
-**Grishmbasnet515/Grishmbasnet515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛡️ Cybersecurity student focused on Pentesting & Ethical Hacking  
+🐍 Python automation lover | 🔧 Builder of security tools
 
-Here are some ideas to get you started:
+## 🔨 Projects I'm working on:
+- 🔐 MAC Spoofing Tool
+- 📊 Service Comparator
+- 🧾 Metadata Extractor
+- 💥 DDoS Simulator (for educational use)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+Python • Bash • Nmap • Burp Suite • SQLmap • Linux • Git
+
+## 🌐 Connect With Me
+- - 🔗[LinkedIn](https://www.linkedin.com/in/grishma-basnet-1744b5333/)
+
+
